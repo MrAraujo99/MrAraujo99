@@ -74,9 +74,5 @@ You can click the Preview link to take a look at your changes.
   <div style="width: 5%; background-color: #1572B6; color: white; text-align: center; line-height: 30px;">CSS3 5%</div>
 </div>
 
-## GitHub Stats
-![MrAraujo99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAraujo99&show_icons=true&theme=dark&hide_border=true)
 
-## Current Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=MrAraujo99&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
