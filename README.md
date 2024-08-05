@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAraujo99
 - 👀 I’m interested in learning Data Science...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on simple projects to learn ...
+- 🌱 Just finished my Data Scientist certificate and im looking for a job.
+- 💞️ I’m looking to collaborate on projects of any scale to solidify my knowledge.
 - 📫 How to reach me ... miiguel.araujo99@gmail.com
 
 <!---
@@ -30,7 +30,21 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Frameworks
-<img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<div style="background-color:#e0e0e0; padding: 5px; display: inline-block;">
+  <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <br />
 <br />
 
