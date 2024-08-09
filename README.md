@@ -53,10 +53,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Other skills
-<img align="left" alt="Photoshop" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Adobe_Photoshop_CC_icon.svg/1024px-Adob_Photoshop_CC_icon.svg.png" />
+<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="filter: hue-rotate(190deg);" />
 <img align="left" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="InDesign" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Adobe_InDesign_CC_icon.svg/1024px-Adobe_InDesign_CC_icon.svg.png" />
-<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Microsoft_Excel_2013_logo.svg/1024px-Microsoft_Excel_2013_logo.svg.png" />
 <br />
 <br />
 ## Most Used Languages
