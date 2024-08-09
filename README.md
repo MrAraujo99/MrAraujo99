@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAraujo99
 - 👀 I’m interested in learning Data Science...
-- 🌱 Just finished my Data Scientist certificate and im looking for a job.
+- 🌱 Just finished my Data Scientist intensive bootcamp and im looking for a job.
 - 💞️ I’m looking to collaborate on projects of any scale to solidify my knowledge.
 - 📫 How to reach me ... miiguel.araujo99@gmail.com
 
