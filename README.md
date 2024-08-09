@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrAraujo99
+- 👋 Hi, I’m Miguel Araújo, a junior data scientist from Portugal.
 - 👀 I’m interested in solidifying my knowledge in Data Science.
 - 🌱 Just finished my Data Scientist intensive bootcamp and im looking for a job.
 - 💞️ I’m looking to collaborate on projects of any scale to solidify my knowledge.
