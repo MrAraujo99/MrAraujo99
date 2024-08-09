@@ -32,24 +32,6 @@ You can click the Preview link to take a look at your changes.
 <div style="background-color:#e0e0e0; padding: 5px; display: inline-block;">
   <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
 </div>
-<br />
-<br />
-
-
-### Other skills
-<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="filter: hue-rotate(190deg);" />
-<img align="left" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="InDesign" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_InDesign_CC_icon.svg/1024px-Adobe_InDesign_CC_icon.svg.png" />
-<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Excel_2013_logo.svg/1024px-Microsoft_Excel_2013_logo.svg.png" />
-
-
-
-
-
-
-
-
-
 
 
 <br />
@@ -70,7 +52,13 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-
+### Other skills
+<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="filter: hue-rotate(190deg);" />
+<img align="left" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="InDesign" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Adobe_InDesign_CC_icon.svg/1024px-Adobe_InDesign_CC_icon.svg.png" />
+<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Microsoft_Excel_2013_logo.svg/1024px-Microsoft_Excel_2013_logo.svg.png" />
+<br />
+<br />
 ## Most Used Languages
 
 <div style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden; display: flex; align-items: center; height: 30px;">
