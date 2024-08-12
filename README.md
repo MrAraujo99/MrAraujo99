@@ -57,21 +57,19 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
 <br />
 <br />
-# António Quaresma's GitHub Stats
+
+
+#Github stats
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAraujo99&layout=compact&theme=radical)
 
 ## GitHub Stats
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAraujo99&show_icons=true&theme=radical)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAraujo99&show_icons=true&theme=radical)
 
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_MrAraujo99&theme=radical)
 
-## Total Contributions
-Total contributions: 792  
-Longest streak: 10 days  
-Current streak: 0 days
 
 
 
