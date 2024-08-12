@@ -70,6 +70,8 @@ You can click the Preview link to take a look at your changes.
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_MrAraujo99&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_MrAraujo99&theme=radical)
+
 
 
 
