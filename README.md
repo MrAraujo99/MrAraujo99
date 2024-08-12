@@ -42,6 +42,15 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="SciPy" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" />
 <img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Seaborn" width="40px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
+<br />
+<br />
+
+### DevOps
+<img align="left" alt="GCP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <br />
 <br />
 
