@@ -57,15 +57,21 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
 <br />
 <br />
-## Most Used Languages
+# António Quaresma's GitHub Stats
 
-<div style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden; display: flex; align-items: center; height: 30px;">
-  <div style="width: 60%; background-color: #306998; color: white; text-align: center; line-height: 30px;">Python 55%</div>
-  <div style="width: 30%; background-color: #DA5B0A; color: white; text-align: center; line-height: 30px;">Jupyter 30%</div>
-  <div style="width: 5%; background-color: #239120; color: white; text-align: center; line-height: 30px;">C 5%</div>
-  <div style="width: 5%; background-color: #E34F26; color: white; text-align: center; line-height: 30px;">HTML5 5%</div>
-  <div style="width: 5%; background-color: #1572B6; color: white; text-align: center; line-height: 30px;">CSS3 5%</div>
-</div>
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAraujo99&layout=compact&theme=radical)
+
+## GitHub Stats
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAraujo99&show_icons=true&theme=radical)
+
+## Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_MrAraujo99&theme=radical)
+
+## Total Contributions
+Total contributions: 792  
+Longest streak: 10 days  
+Current streak: 0 days
 
 
 
